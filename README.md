@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Me chamo Maximilian Fernandes</h1>
+<h1 align="center">Olá! 👋 Me chamo Maximilian Canez Fernandes</h1>
 
 <p align="center">
 Desenvolvedor em formação, focado em backend e automação utilizando Python.<br>
@@ -26,10 +26,13 @@ Apaixonado por construir soluções eficientes, aprender continuamente e aplicar
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Seu Perfil do LinkedIn aqui]  
-- E-mail: [Seu e-mail profissional aqui]
+- LinkedIn: https://www.linkedin.com/in/maximiliancf/  
+- E-mail: maximiliancf.dev@icloud.com
 
 ---
 
-> "A consistência constrói caminhos que a motivação sozinha não sustenta."
+> _"A consistência constrói caminhos que a motivação sozinha não sustenta."_
+>
+> _"Do. Or do not. There is no try!"_
+
 
